@@ -1,4 +1,4 @@
-package com.artem.android.mmfood.ui.theme
+package com.artem.android.core.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

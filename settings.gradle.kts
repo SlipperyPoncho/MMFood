@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "MMFood"
 include(":app")
+include(":core")
+include(":auth")
